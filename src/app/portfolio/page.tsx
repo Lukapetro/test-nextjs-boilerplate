@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { Main } from '@/templates/Main';
 
 export const metadata: Metadata = {
-  title: 'Portfolio',
+  title: 'Portfolioa',
   description: 'Welcome to my portfolio page!',
 };
 
